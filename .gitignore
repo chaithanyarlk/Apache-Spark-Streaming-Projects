@@ -1,0 +1,6 @@
+.metals/
+log/
+*.crc
+__pycache__/
+.vscode/
+*.tmp

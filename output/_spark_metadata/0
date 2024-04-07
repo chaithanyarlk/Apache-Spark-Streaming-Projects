@@ -1,0 +1,3 @@
+v1
+{"path":"file:///F:/SparkLearning/output/part-00000-1fb325c6-abff-449e-9eaf-b04c48483ad8-c000.json","size":15675160,"isDir":false,"modificationTime":1706969161735,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///F:/SparkLearning/output/part-00001-693a6b76-043b-430f-b833-63cf5a711cf4-c000.json","size":12156400,"isDir":false,"modificationTime":1706969161241,"blockReplication":1,"blockSize":33554432,"action":"add"}
